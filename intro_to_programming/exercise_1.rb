@@ -1,1 +1,1 @@
-puts 'Garrett' + 'Gratts' 
+'Garrett' + 'Gratts' 
