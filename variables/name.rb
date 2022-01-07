@@ -1,4 +1,7 @@
-puts 'Type your name:'
-name = gets
+puts 'Enter your first name:'
+first_name = gets.chomp
+puts 'Enter your last name:'
+last_name = gets.chomp
+puts "Your name is #{first_name} #{last_name}, that's amazing."
 
-puts "Hello #{name}."
+10.times { puts "#{first_name} #{last_name}" }
