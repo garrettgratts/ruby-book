@@ -1,0 +1,1 @@
+# There is one arguement, two are neccessary to call the calculate_product method. 
