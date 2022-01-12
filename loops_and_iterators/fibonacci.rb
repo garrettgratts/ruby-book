@@ -5,5 +5,3 @@ def fibonacci(number)
     fibonacci(number - 1) + fibonacci(number - 2)
   end
 end
-
-fibonacci(66)
