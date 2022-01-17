@@ -8,4 +8,4 @@ def greeting(name, options = {})
 end
 
 greeting("Bob")
-greeting("Bob", age: 62, city: "New York City")
+greeting("Bob", age: 62, city: "New York City"
