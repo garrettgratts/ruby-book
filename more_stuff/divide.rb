@@ -1,11 +1,9 @@
-def divide(number, divisor)
-  begin 
-    answer = number / divisor
-  rescue ZeroDivisionError => e
-    puts e.message
-  end
+top
+
+def top
+  bottom
 end
 
-puts divide(16, 4)
-puts divide(4, 0)
-puts divide(14,7)
+def bottom
+  puts "Reached the bottom"
+end
