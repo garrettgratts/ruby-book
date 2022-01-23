@@ -1,0 +1,1 @@
+# An array is indexed by integers, a hash is indexed by key-value pairs.
